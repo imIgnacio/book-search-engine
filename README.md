@@ -167,3 +167,9 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 * `SignupForm.js`: Replace the `addUser()` functionality imported from the `API` file with the `ADD_USER` mutation functionality.
 
 * `LoginForm.js`: Replace the `loginUser()` functionality imported from the `API` file with the `LOGIN_USER` mutation functionality.
+
+## Functionality
+
+To see this application running live, refer to ![Link](https://ignacio-book-search-engine.herokuapp.com/)
+
+To find out more go to my github page: ![Link](https://github.com/imIgnacio/book-search-engine)
