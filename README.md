@@ -170,6 +170,6 @@ Additionally, you’ll need to complete the following tasks in each of these fro
 
 ## Functionality
 
-To see this application running live, refer to ![Link](https://ignacio-book-search-engine.herokuapp.com/)
+To see this application running live, refer to ![Heroku Deployed App](https://ignacio-book-search-engine.herokuapp.com/)
 
-To find out more go to my github page: ![Link](https://github.com/imIgnacio/book-search-engine)
+To find out more go to my github page: https://github.com/imIgnacio/book-search-engine
